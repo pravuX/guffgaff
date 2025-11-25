@@ -1,6 +1,6 @@
 # GuffGaff
 
-A real-time chat application built with Django Channels, featuring WebSocket-based messaging, friend management, and group chat capabilities.
+A real-time chat application built with Django Channels, featuring WebSocket-based messaging, friend management, and group chat capabilities. Try it [here](https://guffgaff-production.up.railway.app).
 
 ## 🌟 Features
 
